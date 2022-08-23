@@ -1,0 +1,14 @@
+body{
+    background:lightgreen;
+    
+} 
+
+#title{
+    background-color: darkgoldenrod;
+}
+
+
+#examples_button{
+
+    float: right;
+}
